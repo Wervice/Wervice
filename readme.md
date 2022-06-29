@@ -14,9 +14,9 @@ Do you want to vist my homepage?
 https://wervice.github.io
 
 ## Common pages
-* [Home](https://palmonda.github.io/)  
-* [Whitespace](https://palmonda.github.io/projects/Whitespace)👈 
-* [html5templates](https://palmonda.github.io/projects/html5templates)  
+* [Home](https://wervice.github.io/)  
+* [Whitespace](https://wervice.github.io/projects/Whitespace)👈 
+* [html5templates](https://wervice.github.io/projects/html5templates)  
 
 
 ## Thanks to Icons8
