@@ -3,7 +3,7 @@
 <div align="center">
 <img src="pluto-done.png" style="height:20vh;">
   <br>
-  <i style="font-family:serif;">
+  <i style="color:red;">
 Welcome to Wervice's code! 😀
   </i>
 </div>
