@@ -2,7 +2,10 @@
 
 <div align="center">
 <img src="pluto-done.png" style="height:20vh;">
+  <br>
+  <i>
 Welcome to Wervice's code! 😀
+  </i>
 </div>
   
 Illustration by [Sara Maese](https://saramaese.com/) from [Ouch](https://www.icons8.com)!
