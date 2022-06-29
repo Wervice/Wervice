@@ -26,4 +26,4 @@ I'm using [Icons8](https://www.icons8.com), [Lunacy by Icons8](https://www.icons
 Yes and no. Palmonda was the old name of the project, now it's called wervice.
 
 ## Share this post
-<a href="mailto:jon@example.com"><img src="mail.png" style="height:20px;"></a>
+<a href="mailto:jon@example.com?body='Hi, have a look at this: wervice.github.io'"><img src="mail.png" style="height:20px;"></a>
