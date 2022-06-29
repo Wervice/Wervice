@@ -13,6 +13,11 @@ Do you want to vist my homepage?
 
 https://wervice.github.io
 
+##ä Common pages
+[Home](https://palmonda.github.io/)  
+[Whitespace](https://palmonda.github.io/projects/Whitespace)  
+[html5templates](https://palmonda.github.io/projects/html5templates)  
+
 
 ## Thanks to Icons8
 I'm using [Icons8](https://www.icons8.com), [Lunacy by Icons8](https://www.icons8.com/lunacy), lot's of great, free and nice assets by [Ouch!](https://www.icons8.com/ouch) and nice illustrations of other great illustrators and creators. For example the image 👆 an asset by [Icons8](https://www.icons8.com).
