@@ -20,10 +20,11 @@ https://wervice.github.io
 
 
 ## Thanks to Icons8
-I'm using [Icons8](https://www.icons8.com), [Lunacy by Icons8](https://www.icons8.com/lunacy), lot's of great, free and nice assets by [Ouch!](https://www.icons8.com/ouch) and nice illustrations of other great illustrators and creators. For example the image 👆 an asset by [Icons8](https://www.icons8.com).
+I'm using [Icons8](https://www.icons8.com), [Lunacy by Icons8](https://www.icons8.com/lunacy), lot's of great, free and nice assets by [Ouch!](https://www.icons8.com/ouch) and nice illustrations of other great illustrators and creators. For example the images 👆´and 👇 are assets by [Icons8](https://www.icons8.com).
 
 ## Is this a clone of Palmonda?
 Yes and no. Palmonda was the old name of the project, now it's called wervice.
 
 ## Share this post
 <a href="mailto:jon@example.com?body='Hi, have a look at this: wervice.github.io'"><img src="mail.png" style="height:20px;"></a>
+<a href="https://wa.me//?text=Have%20a%20look%20at%20this:%20wervice.github.io"><img src="whatsapp.png" style="height:20px;"></a>
