@@ -13,7 +13,7 @@ Do you want to vist my homepage?
 
 https://wervice.github.io
 
-##ä Common pages
+## Common pages
 [Home](https://palmonda.github.io/)  
 [Whitespace](https://palmonda.github.io/projects/Whitespace)  
 [html5templates](https://palmonda.github.io/projects/html5templates)  
