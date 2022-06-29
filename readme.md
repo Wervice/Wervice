@@ -24,3 +24,6 @@ I'm using [Icons8](https://www.icons8.com), [Lunacy by Icons8](https://www.icons
 
 ## Is this a clone of Palmonda?
 Yes and no. Palmonda was the old name of the project, now it's called wervice.
+
+## Share this post
+<a href="mailto:jon@example.com"><img src="mail.png" style="height:20px;"></a>
