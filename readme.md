@@ -1,7 +1,7 @@
 # Wervice Open Source
 
 <div align="center">
-<img src="pluto-done.png" style="height:20vh;">
+<img src="pluto-done.png" style="height:20vh;;min-height:6cm;">
   <br>
 Welcome to Wervice's code! 😀
 </div>
