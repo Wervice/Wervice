@@ -27,4 +27,4 @@ Yes and no. Palmonda was the old name of the project, now it's called wervice.
 
 ## Share this post
 <a href="mailto:jon@example.com?body='Hi, have a look at this: wervice.github.io'"><img src="mail.png" style="height:20px;"></a>
-<a href="https://wa.me/0/?text=Have%20%a%20%look%20%at%20%this:%202%wervice.github.io"><img src="mail.png" style="height:20px;"></a>
+<a href="https://wa.me//?text=Have%20a%20look%20at%20this:%202wervice.github.io"><img src="mail.png" style="height:20px;"></a>
