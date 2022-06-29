@@ -1,7 +1,9 @@
 # Wervice Open Source
 
-<img src="pluto-done.png" style="height:10vh;">
-
+<div align="center">
+<img src="pluto-done.png" style="height:20vh;">
+</div>
+  
 Illustration by [Sara Maese](https://saramaese.com/) from [Ouch](https://www.icons8.com)!
 
 The palmonda apps and the webssite are open source, so you copy and share the code. I also upload the multi media files on GitHub. Share this account to share palmonda.
