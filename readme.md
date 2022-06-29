@@ -1,6 +1,6 @@
 # Wervice Open Source
 
-<img src="pluto-done.png" style="height:50vh;">
+<img src="pluto-done.png" style="height:10vh;">
 
 Illustration by [Sara Maese](https://saramaese.com/) from [Ouch](https://www.icons8.com)!
 
