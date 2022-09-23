@@ -1,10 +1,19 @@
 # Wervice
-### [wervice.github.io](https://wervice.github.io)
+## Software everywhere and free
 
-<div align=center><img src="./3d-fluency-open-book.png" width="200"></div>
-<h3>Welcome to Wervice's code 😊</h3>  
+<div align=center><img src="./3d-fluency-open-book.png" width="150"></div>
+
+### Welcome to Wervice's code 😊
 In <a href="https://github.com/Wervice/wervice.github.io">this</a> repository, you find all the Wervice frontend and backend code.
-<br>
-The frontend code is written in HTML and CSS. The backend uses JavaScript.
-<hr>
-Is use <a href="https://icons8.com/">Icons 8</a> in my web apps, on this profile and in my readmes.
+
+The frontend code is written in HTML and CSS. The backend uses JavaScript and PHP.
+## Thanks too...
+### Icons8
+[Icons 8](https://icons8.com/) has lot's of amazing icons and illustrations. I use them in my apps and on my [website](https://werivce.github.io).
+### Google Fonts
+[Google Fonts](https://fonts.google.com) offers amazing fonts.
+#### Montserrat
+Montserrat is licenced under the [OFL (Open Font License)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | [📂 Open](./OFL_Montserrat.txt)
+
+#### Poppins
+Poppins is licenced under the [OFL (Open Font License)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | [📂 Open](./OFL_Poppins.txt)
