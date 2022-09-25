@@ -17,7 +17,7 @@ Wervice is a project for cross-platform and FOSS browser apps. They perform in y
 + MoneyChart - Portion your money and always keep an eye on your income and expenses.
 + Whitespace Update - The new, faster and better version of the actual Whitespace.
 
-## The developer
+## About me
 ### Skills
 | # | Language              | Level |
 |---|-----------------------|-------|
