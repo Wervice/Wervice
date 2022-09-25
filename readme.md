@@ -21,17 +21,16 @@ Wervice is a project for cross-platform and FOSS browser apps. They perform in y
 ### Skills
 | # | Language              | Level |
 |---|-----------------------|-------|
-|<img src='icons8-javascript-96.png' height=25>  | JavaScript            | ✨     |
-|<img src='icons8-html-5-96.png' height=25>  | HTML                  | ✨     |
-|<img src='icons8-css3-96.png' height=25>   | CSS                   | ✨     |
-|<img src='icons8-php-96.png' height=25>   | PHP                   | 👍     |
-|<img src='icons8-bash-96.png' height=25>   | Bash                  | 👍     |
-|<img src='icons8-ctrl-96.png' height=25>  | Copy 'n paste         | 🔥     |
-|<img src='icons8-lunacy-96.png' height=25>   | Lunacy | ✨     |
+|<img src='icons8-javascript-96.png' height=25>  | JavaScript            | <img src="sparkels.png" height="25" alt="✨">     |
+|<img src='icons8-html-5-96.png' height=25>  | HTML                  | <img src="sparkels.png" height="25" alt="✨">     |
+|<img src='icons8-css3-96.png' height=25>   | CSS                   | <img src="sparkels.png" height="25" alt="✨">    |
+|<img src='icons8-php-96.png' height=25>   | PHP                   | <img src="smile.png" height="20" alt="👍">     |
+|<img src='icons8-bash-96.png' height=25>   | Bash                  | <img src="smile.png" height="20" alt="👍">      |
+|<img src='icons8-ctrl-96.png' height=25>  | Copy 'n paste         | <img src="sparkels.png" height="25" alt="✨">       |
+|<img src='icons8-lunacy-96.png' height=25>   | Lunacy | <img src="sparkels.png" height="25" alt="✨">      |
 #### Legend
-✨ Best  
-👍 Good  
-🔥 Super  
+<img src="sparkels.png" height="20" alt="✨"> Best  
+<img src="smile.png" height="13" alt="👍">  Good  
 
 ## Thanks too...
 ### Icons8
