@@ -5,18 +5,23 @@ wervice@wervice:~$ whoami
 An open source programmer and UI designer.
 ```
 ## What are my skills?
-|Languages|
+<table>
+<tr><th>Languages</th><th>Tools</th></tr>
+<tr><td>
+
+|#|
 |-|
 |HTML|
 |CSS|
 |JavaScript|
 |Python|
-|SmallBasic|
 |PHP|
 |Bash|
 |Batch|
 
-|Tools|
+</td><td>
+
+|#|
 |-|
 |Lunacy|
 |GitHub|
@@ -25,3 +30,5 @@ An open source programmer and UI designer.
 |GIMP|
 |VirtualBox|
 |Tkinter|
+
+</td></tr> </table>
