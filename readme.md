@@ -24,6 +24,7 @@ An open source programmer and UI designer.
 |#|
 |-|
 |Lunacy|
+|Inkscape|
 |GitHub|
 |Linux Terminal|
 |VSCode|
