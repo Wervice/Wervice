@@ -16,6 +16,7 @@ An open source programmer and UI designer.
 |JavaScript|
 |Python|
 |PHP|
+|C#|
 |Bash|
 |Batch|
 
