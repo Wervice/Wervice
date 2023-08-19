@@ -1,6 +1,6 @@
-<h1 style="font-size: 24px; font-weight: bold;">Hello, I'm Wervice</h1>
+<h1 align="center" style="font-size: 24px; font-weight: bold;">Hello, I'm Wervice</h1>
 <br>
-<div align="left"><img src="https://avatars.githubusercontent.com/u/108389772?v=4" alt="The Wervice Logo" height=120></div>
+<div align="center"><img src="https://avatars.githubusercontent.com/u/108389772?v=4" alt="The Wervice Logo" height=120></div>
 <br><br>
 <p style="font-size: 16px;">Welcome to my GitHub profile! I'm a developer with experience in various programming languages and design tools. Here's a little bit about me:</p>
 
