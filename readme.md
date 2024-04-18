@@ -32,3 +32,9 @@ My current project is Zentrox.<br>I like to try different programming languages 
 
 ![Linux](https://img.shields.io/badge/Linux-gold?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-00aaff?style=for-the-badge&logo=Windows&logoColor=white)
+
+## Top Projects
+My top projects are also pinned bellow. Here is a small overview:
+- [Zentrox](https://github.com/wervice/zentrox): An easy-to-use application to remote administrate your home server
+- [Codelink](https://github.com/wervice/Codelink): A collection of desktop applications written in NW.js
+- [EspressoNode](https://github.com/wervice/EspressoNode): A python tool to change your exit node for the Tor browser
