@@ -16,6 +16,7 @@ My current project is Zentrox.<br>I like to try different programming languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-dodgerblue.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/CMD-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
