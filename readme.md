@@ -14,8 +14,8 @@ My current project is Zentrox.<br>I like to try different programming languages 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ![C](https://img.shields.io/badge/c-536878.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-red.svg?e&logo=rust&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-red.svg?e&logo=rust&logoColor=white&style=for-the-badge)
 ![Go](https://img.shields.io/badge/go-dodgerblue.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
