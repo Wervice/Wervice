@@ -13,11 +13,12 @@ My current project is Zentrox.<br>I like to try different programming languages 
 ![Markdown](https://img.shields.io/badge/MD-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+![C](https://img.shields.io/badge/c-536878.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-red.svg?e&logo=rust&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/go-dodgerblue.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/go-dodgerblue.svg?style=for-the-badge&logo=go&logoColor=white)
-
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/CMD-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
