@@ -1,7 +1,6 @@
 # 👋 Hi, I am Wervice
 My current project is Zentrox.<br>I like to try different programming languages and tools.
 
-[![Reddit](https://img.shields.io/badge/reddit-FF4A23.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/Wervice)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/wervice76497)
 [![Fosstodon](https://img.shields.io/badge/Fosstodon-blue.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@wervice)
 [![Mail](https://img.shields.io/badge/Mail-white.svg?style=for-the-badge&logo=mail&logoColor=black)](mailto:wervice@proton.me)
